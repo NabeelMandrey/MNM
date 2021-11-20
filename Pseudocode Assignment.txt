@@ -44,19 +44,19 @@ DECLARE Str1 : String
 
 
 
-ASSIGNMENT 2:(donouts)
-DECLARE donots : Integer
+ASSIGNMENT 2:(donuts)
+DECLARE donuts : Integer
 
 
-donots <== 0
+donuts <== 0
 
-OUTPUT "Enter Number of Donouts: "
-INPUT donots
-            If donots < 10 
+OUTPUT "Enter Number of Donuts: "
+INPUT donuts
+            If donuts < 10 
              Then
-               OUTPUT "The Number of donouts: ",donots
-                ElseIf donots >= 10 Then
-                  OUTPUT "The number of donouts: Many"
+               OUTPUT "The Number of donuts: ",donuts
+                ElseIf donuts >= 10 Then
+                  OUTPUT "The number of donuts: Many"
 
          End If
       END If
